@@ -14,6 +14,13 @@ Customer churn refers to the loss of clients or subscribers. This project helps 
 - User-friendly form-based Streamlit UI
 - Hosted live on Streamlit Cloud
 
+## 🔍 Model Comparison
+
+This app compares two ML models – Logistic Regression and Random Forest – on customer churn prediction.  
+Random Forest usually performs better with higher accuracy (85%+).
+
+✔️ Built with Streamlit | 📊 Visual Comparison Included
+
 ## Tech Stack
 
 - Python
@@ -41,3 +48,4 @@ The dataset used for this project was obtained from Kaggle:
 ## Author
 
 Made with ❤️ by [Suhani Gupta](http://www.linkedin.com/in/suhani-gupta-7bb405286)
+
